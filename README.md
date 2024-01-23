@@ -11,6 +11,6 @@ Hi there 👋
 
 <br/>
 
-***[좋아하는 노래][gdh]***
+**[좋아하는 노래][gdh]**
 
 [gdh]:https://www.youtube.com/watch?v=9TSPbfbJUkQ
