@@ -2,7 +2,7 @@ My Profile
 ===
 **안녕하세요 이재현입니다.**
 
-현재 Java 공부 중에 있습니다.
+현재 Java, MySQL 공부 중에 있습니다.
 <br/>
 <br/>
 ## **개인 연락망 (personal contacks)**
