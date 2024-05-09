@@ -1,6 +1,7 @@
 My Profile
 ===
 **안녕하세요 이재현입니다.**
+<br>
 현재 공부하는 언어입니다.
 
 ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
