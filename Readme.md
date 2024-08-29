@@ -2,7 +2,7 @@ My Profile
 ===
 **안녕하세요 이재현입니다.**
 <br>
-학원에서 배우고 현재 연마하고 있는 언어입니다.
+학원에서 배우고 현재 공부하고 있는 언어입니다.
 
 ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![js](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
